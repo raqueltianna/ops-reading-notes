@@ -14,3 +14,6 @@
       To track the chips, investigators following the supply chain in reverse by sifting through communications, tracked key players through their phone and then eventually traced the chips to four subcontrtacted factories. 
 
 
+## Things I want to know more about 
+ - What is the difference between adding a file and a wiki on Github?
+ -I read through and I think I have a good understanding of the ISC2 Ethics but I would like to know more about what is considered going against the ethics? I can see how if someone was accused of that how they could try and say that it is situational or that it is based off of interpretation so I would like to know what is the clear defining line when it comes to them. 
