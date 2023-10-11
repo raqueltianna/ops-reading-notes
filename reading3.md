@@ -14,4 +14,4 @@
      The CMOS batter powers the BIOS in your PC. 
 
 ## Things I want to know more about
-    I wouldn't say there is anything that I really would like to know more about regarding the BIOS and CMOS. I think reading this article and the other resources, plus our instructor explaining and going through the processes made a lot of sense to me. 
+   I wouldn't say there is anything that I really would like to know more about regarding the BIOS and CMOS. I think reading this article and the other resources, plus our instructor explaining and going through the processes made a lot of sense to me. 
