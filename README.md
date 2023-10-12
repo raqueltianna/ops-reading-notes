@@ -6,3 +6,5 @@ My Ops Reading Notes Repo.
 - [Reading 3](reading3.md)
 - [Reading 4](reading4.md)
 - [Reading 5](reading5.md)
+- [Reading 6](reading6.md)
+- [Reading 7](reading7.md)
