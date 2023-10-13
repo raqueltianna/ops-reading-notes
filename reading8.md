@@ -1,3 +1,5 @@
+# Reading 8
+
 1. What is an ISO File?
    - It is a single file that can be duplicate a CD. The file by itself is no good it's the contents inside of it.
 2. How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)?
