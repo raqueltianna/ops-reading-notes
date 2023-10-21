@@ -1,4 +1,6 @@
-# Reading 5
+# Ops Reading
+
+## Reading 5
 
 1. Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
      - Shell: A program that allows the user to access the operating system's service. It reads the user's commands and translates that t othe operating system.
