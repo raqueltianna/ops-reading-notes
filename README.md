@@ -2,8 +2,8 @@
 My reading notes for the duration of my ops class.
 
 ## Ops 102: Intro to Computer Operations
-- [Reading 1](reading1.md)
-- [Reading 2](reading2.md)
+- [Reading 1](ops-102d14-reading-01.md)
+- [Reading 2](ops-102d14-reading-02.md)
 - [Reading 3](reading3.md)
 - [Reading 4](reading4.md)
 - [Reading 5](reading5.md)
