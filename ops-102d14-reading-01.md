@@ -1,8 +1,6 @@
-# Tianna's Ops Reading Notes 
+# Ops Readings
 
-## Ops Readings
-
-### Reading  #1 
+## Reading  #1 
 
 1. How is a hardware hack different than a software hack? 
     Hardware hacks are more devastating and long-term. Hardware hack creates trails of componets like shipping manifest and fatories.
