@@ -1,4 +1,6 @@
-# Reading 2 
+# Ops Reading 
+
+## Reading 2 
 1. Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
     Higher speed is better if you need to process data faster but more cores can improve performance. Only time that you need to more than 6 cores if you are building a high performance gaming PC.
 2. What details are you looking for when finding a motherboard which fits your processor?
