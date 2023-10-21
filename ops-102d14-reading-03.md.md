@@ -1,4 +1,4 @@
-# Reading 3 
+## Reading 3 
 
 1. What is the BIOS?
    The BIOS is the utility program which loads the operating system when the computer is turned on.
