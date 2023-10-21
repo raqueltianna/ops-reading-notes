@@ -1,4 +1,6 @@
-# Reading 6 
+# Ops Readings
+
+## Reading 6 
 
 1. What makes the Linksys WRT54GL famous?
    - It has the ability  to run open-source/ third party firmware that turns into a business device without the business router price. 
