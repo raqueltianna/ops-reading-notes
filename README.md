@@ -11,6 +11,7 @@ My reading notes for the duration of my ops class.
 - [Reading 7](ops-102d14-reading-07.md)
 
 ## Ops 201: Foundations of Computer Operations
+- [Prompt_Engineering](prompt-engineering.md)
 
 ## Ops 301: Networking and Systems Administration
 
