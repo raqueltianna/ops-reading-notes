@@ -13,7 +13,7 @@ My reading notes for the duration of my ops class.
 ## Ops 201: Foundations of Computer Operations
 - [Prompt_Engineering](prompt-engineering.md)
 - [How_to_Use_System_Restore](ops-201d14-reading-01.md)
-- [What_is_Bash?](ops-201d14-reading-02.md)
+- [What_is_Bash? Reading_3 ](ops-201d14-reading-02.md)
 - [CompTIA_A+_220-902_Troubleshooting_Methodology_Reading_04](ops-201d14-reading-04.md)
 
 ## Ops 301: Networking and Systems Administration
