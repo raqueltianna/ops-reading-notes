@@ -1,4 +1,4 @@
-# Reading 
+# Reading: Data Restoration, Startup Repair, and Secure Disposal
 
 ### What are some common indicators that an SSD may be failing? 
 - Some common indicators that an SSD may be failing are if your computer crashes but runs "normally after several reboots. Another indicator is that your SSD will not operate except if you are doing read-only functions. Other indicators are things like frequent file corruption, bad sectors, and missing files or directories. 
